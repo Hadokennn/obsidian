@@ -1,4 +1,4 @@
-# TypeScript 事件循环（Event Loop）详细讲解
+# JavaScript 事件循环（Event Loop）详细讲解
 
 TypeScript 本身**没有独立的事件循环**，因为TS是JavaScript的超集，最终会编译为纯JS代码运行，其事件循环完全遵循**JavaScript的事件循环规则**，且运行时（浏览器/Node.js）的事件循环机制是TS事件循环的核心载体。学习TS事件循环，本质是掌握JS事件循环在不同运行时的工作原理，以及TS类型系统对事件循环相关API的类型约束。
 

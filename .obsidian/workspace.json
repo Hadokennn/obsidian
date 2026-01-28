@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/Vim 实用使用指南.md",
+                "file": "Node/Typescript 八股文.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Vim 实用使用指南"
-            }
-          },
-          {
-            "id": "1f71bd0c3a32ec32",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "title": "Typescript 八股文"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Node/Typescript 八股文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Typescript 八股文 的反向链接列表"
             }
           },
           {
@@ -127,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Node/Typescript 八股文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Typescript 八股文 的出链列表"
             }
           },
           {
@@ -169,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Node/Typescript 八股文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Typescript 八股文 的大纲"
             }
           },
           {
@@ -208,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -229,9 +217,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f71bd0c3a32ec32",
+  "active": "6aee83d856cf7082",
   "lastOpenFiles": [
     "README.md",
+    "Tools/Vim 实用使用指南.md",
+    "Tools/Linux 常用命令实用手册.md",
     "未命名.base",
     "LLMS knowledges/ACP.md",
     "LLMS knowledges/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
@@ -244,8 +234,6 @@
     "gemini-scribe/Agent-Sessions",
     "gemini-scribe/Prompts",
     "gemini-scribe",
-    "Tools/Vim 实用使用指南.md",
-    "Tools/Linux 常用命令实用手册.md",
     "Tools",
     "AI Trade",
     "未命名 1.base",

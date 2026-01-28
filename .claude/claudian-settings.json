@@ -53,7 +53,7 @@
     "~/Downloads"
   ],
   "persistentExternalContextPaths": [],
-  "environmentVariables": "",
+  "environmentVariables": "ANTHROPIC_AUTH_TOKEN=sk-kimi-f1GZch2gHLOJsWpMpHKvznKdFcp7PdGI0V246nKX9DvgY0P6gpVNEyNWmRxlrf4Y\nANTHROPIC_BASE_URL=https://api.kimi.com/coding",
   "envSnippets": [],
   "customContextLimits": {},
   "keyboardNavigation": {
@@ -63,11 +63,13 @@
   },
   "locale": "zh-CN",
   "claudeCliPath": "",
-  "claudeCliPathsByHost": {},
+  "claudeCliPathsByHost": {
+    "G7QQRX6X1H": "/Users/bytedance/.nvm/versions/node/v22.22.0/bin/claude"
+  },
   "loadUserClaudeSettings": true,
   "lastClaudeModel": "haiku",
   "lastCustomModel": "",
-  "lastEnvHash": "",
+  "lastEnvHash": "ANTHROPIC_BASE_URL=https://api.kimi.com/coding",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,

@@ -1,0 +1,20 @@
+{
+  "id": "conv-1769583239448-qt6g9mpjs",
+  "title": "你有哪些skills",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1769583239457,
+  "updatedAt": 1769583334992,
+  "lastResponseAt": 1769583334992,
+  "sessionId": "ab237ddf-2f44-4bf3-bf31-ba9c291c06d9",
+  "sdkSessionId": "ab237ddf-2f44-4bf3-bf31-ba9c291c06d9",
+  "currentNote": "Tools/Vim 实用使用指南.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 12989,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 12989,
+    "percentage": 6
+  }
+}
