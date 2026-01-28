@@ -1,0 +1,1 @@
+# Obsidian valut plugin
