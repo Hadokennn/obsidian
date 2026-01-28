@@ -10,13 +10,15 @@
 
 ## 实践
 
-### 1. github-kb
+### 1. github-kb【Done】
 > 用 github 作为本地知识库去快速扩展自己的能力。
 
 
-### 2. obsidian x claude
+### 2. obsidian x claude【Done】
 > 借助skill，快速整理知识笔记、图谱。
 > [obsidian插件](https://github.com/YishenTu/claudian)，使用claude时，保存知识库。
 
 
 ### 3. 如何教孩子认识钟表、学英语
+
+### 4. 使用claude工具链

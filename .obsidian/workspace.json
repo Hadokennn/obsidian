@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMS knowledges/Python/Python 基础学习笔记.md",
-                "mode": "source",
+                "file": "LLMS/cluade 实践.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Python 基础学习笔记"
+              "title": "cluade 实践"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMS knowledges/Python/Python 基础学习笔记.md",
+                "file": "LLMS/cluade 实践.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python 基础学习笔记 的大纲"
+              "title": "cluade 实践 的大纲"
             }
           },
           {
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -217,11 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e08ec26989674067",
+  "active": "6aee83d856cf7082",
   "lastOpenFiles": [
+    "LLMS knowledges/Python/Python 基础学习笔记.md",
     "LLMS knowledges/Python/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
-    "LLMS knowledges/Python/Python 基础学习笔记.md",
-    "LLMS knowledges/Python/Python 基础学习笔记.md",
     "LLMS knowledges/Python",
     "LLMS knowledges/ACP.md",
     "Tools/Vim 实用使用指南.md",
