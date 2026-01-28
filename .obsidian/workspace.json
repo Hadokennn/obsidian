@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMS/cluade 实践.md",
+                "file": "LLMS knowledges/ACP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cluade 实践"
+              "title": "ACP"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LLMS/cluade 实践.md",
+                "file": "LLMS knowledges/ACP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "cluade 实践 的反向链接列表"
+              "title": "ACP 的反向链接列表"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LLMS/cluade 实践.md",
+                "file": "LLMS knowledges/ACP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "cluade 实践 的出链列表"
+              "title": "ACP 的出链列表"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMS/cluade 实践.md",
+                "file": "LLMS knowledges/ACP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "cluade 实践 的大纲"
+              "title": "ACP 的大纲"
             }
           },
           {
@@ -234,11 +234,11 @@
   },
   "active": "1f71bd0c3a32ec32",
   "lastOpenFiles": [
-    "Obsidian 完整语法示例模板.md",
-    "LLMS/cluade 实践.md",
-    "Node/Typescript 八股文.md",
-    "gemini-scribe/Prompts/example-expert.md",
     "LLMS knowledges/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
+    "LLMS/cluade 实践.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "Obsidian 完整语法示例模板.md",
+    "Node/Typescript 八股文.md",
     "LLMS knowledges/Python 从入门到LLM.md",
     "Node",
     "gemini-scribe/Agent-Sessions",
