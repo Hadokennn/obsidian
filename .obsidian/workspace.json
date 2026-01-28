@@ -25,10 +25,14 @@
             "id": "1f71bd0c3a32ec32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -165,13 +169,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -226,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29b72b09413657d5",
+  "active": "1f71bd0c3a32ec32",
   "lastOpenFiles": [
     "README.md",
     "未命名.base",
