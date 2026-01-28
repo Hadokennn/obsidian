@@ -1,4 +1,5 @@
 {
   "cssTheme": "Minimal",
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "accentColor": "#345a6f"
 }
