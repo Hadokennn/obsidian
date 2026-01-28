@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Node/Typescript 八股文.md",
+                "file": "LLMS knowledges/Python/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Typescript 八股文"
+              "title": "🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Node/Typescript 八股文.md",
+                "file": "LLMS knowledges/Python/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Typescript 八股文 的大纲"
+              "title": "🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python 的大纲"
             }
           },
           {
@@ -196,11 +196,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 411.5
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,18 +217,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aee83d856cf7082",
+  "active": "e08ec26989674067",
   "lastOpenFiles": [
-    "README.md",
+    "LLMS knowledges/Python/Python 基础学习笔记.md",
+    "LLMS knowledges/Python/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
+    "LLMS knowledges/Python",
+    "LLMS knowledges/ACP.md",
     "Tools/Vim 实用使用指南.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "Node/Typescript 八股文.md",
+    "README.md",
     "Tools/Linux 常用命令实用手册.md",
     "未命名.base",
-    "LLMS knowledges/ACP.md",
-    "LLMS knowledges/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
     "LLMS/cluade 实践.md",
-    "gemini-scribe/Prompts/example-expert.md",
     "Obsidian 完整语法示例模板.md",
-    "Node/Typescript 八股文.md",
     "LLMS knowledges/Python 从入门到LLM.md",
     "Node",
     "gemini-scribe/Agent-Sessions",
@@ -238,7 +240,6 @@
     "AI Trade",
     "未命名 1.base",
     "LLMS",
-    "LLMS knowledges",
     "未命名.canvas",
     "未命名 1.canvas",
     "2026-01-27.md"

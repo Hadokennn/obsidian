@@ -1,5 +1,6 @@
 {
   "cssTheme": "Minimal",
   "interfaceFontFamily": "",
-  "accentColor": "#345a6f"
+  "accentColor": "#345a6f",
+  "theme": "obsidian"
 }
