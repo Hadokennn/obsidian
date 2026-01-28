@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMS knowledges/Python/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
-                "mode": "preview",
+                "file": "LLMS knowledges/Python/Python 基础学习笔记.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python"
+              "title": "Python 基础学习笔记"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMS knowledges/Python/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
+                "file": "LLMS knowledges/Python/Python 基础学习笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python 的大纲"
+              "title": "Python 基础学习笔记 的大纲"
             }
           },
           {
@@ -219,8 +219,9 @@
   },
   "active": "e08ec26989674067",
   "lastOpenFiles": [
-    "LLMS knowledges/Python/Python 基础学习笔记.md",
     "LLMS knowledges/Python/🐍 Python 落地笔记 - Day 01 从 TS 跨越到 Python.md",
+    "LLMS knowledges/Python/Python 基础学习笔记.md",
+    "LLMS knowledges/Python/Python 基础学习笔记.md",
     "LLMS knowledges/Python",
     "LLMS knowledges/ACP.md",
     "Tools/Vim 实用使用指南.md",
