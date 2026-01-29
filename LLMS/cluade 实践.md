@@ -22,3 +22,9 @@
 ### 3. 如何教孩子认识钟表、学英语
 
 ### 4. 使用claude工具链
+
+
+### Api
+
+- Kimi Claude: sk-kimi-f1GZch2gHLOJsWpMpHKvznKdFcp7PdGI0V246nKX9DvgY0P6gpVNEyNWmRxlrf4Y
+- Kimi LLM: sk-kimi-FKOmwLvEt7gO1daoOyNSf785Ua66LvpFfsfSig5Kjv2M9oB7cWyLHYJtO6RjzxtA
