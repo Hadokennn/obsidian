@@ -28,3 +28,4 @@
 
 - Kimi Claude: sk-kimi-f1GZch2gHLOJsWpMpHKvznKdFcp7PdGI0V246nKX9DvgY0P6gpVNEyNWmRxlrf4Y
 - Kimi LLM: sk-kimi-FKOmwLvEt7gO1daoOyNSf785Ua66LvpFfsfSig5Kjv2M9oB7cWyLHYJtO6RjzxtA
+- kimi claw: sk-kimi-TqRxnUgWq7SGRW5BcJRBgsctwOGHx5Ievjh5Rg1dxSSTbA2D2W9lZF6MfGhdeZsZ
