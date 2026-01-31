@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LLMS/cluade 实践.md",
+                "file": "LLMS/clawbot 实践.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cluade 实践"
+              "title": "clawbot 实践"
             }
           }
         ],
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LLMS/cluade 实践.md",
+                "file": "LLMS/clawbot 实践.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "cluade 实践 的大纲"
+              "title": "clawbot 实践 的大纲"
             }
           },
           {
@@ -262,8 +262,8 @@
   },
   "active": "28dc82b29a9a2d13",
   "lastOpenFiles": [
-    "LLMS/clawbot 实践.md",
     "LLMS/cluade 实践.md",
+    "LLMS/clawbot 实践.md",
     "Obsidian 完整语法示例模板.md",
     "Tools/Vim 实用使用指南.md",
     "LLMS knowledges/Python/Python 基础学习笔记.md",
