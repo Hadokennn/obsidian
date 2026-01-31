@@ -3,10 +3,15 @@
 1. proxmox
 	1. https://192.168.0.44:8006/
 	2. `ssh root@192.168.0.44`
-2. ubuntu（VM）
+2. openclaw-gateway（VM）
 	1. ssh openclaw@192.168.0.46
 3. services（LXC）
 	1. ssh root@192.168.0.48
+       ├── n8n (5678)
+       ├── Postgres (5432)
+       ├── Redis (6379)
+       ├── NPM (80/443)
+       └── Memos (5230)
 
 
 ---
